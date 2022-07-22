@@ -1,0 +1,28 @@
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.csproj.AssemblyReference.cache
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.AssemblyInfoInputs.cache
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.AssemblyInfo.cs
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.csproj.CoreCompileInputs.cache
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.exe
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.deps.json
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.runtimeconfig.json
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.runtimeconfig.dev.json
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.dll
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.pdb
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.dll
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.pdb
+C:\Users\itzra\Documents\VS2019\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.genruntimeconfig.cache
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.exe
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.deps.json
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.runtimeconfig.json
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.runtimeconfig.dev.json
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.dll
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\bin\Debug\netcoreapp3.1\Exercicio_Dolar.pdb
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.csproj.AssemblyReference.cache
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.AssemblyInfoInputs.cache
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.AssemblyInfo.cs
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.csproj.CoreCompileInputs.cache
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.dll
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.pdb
+C:\Users\itzra\Documents\Projetos C#\Exercicio_Dolar\Exercicio_Dolar\obj\Debug\netcoreapp3.1\Exercicio_Dolar.genruntimeconfig.cache

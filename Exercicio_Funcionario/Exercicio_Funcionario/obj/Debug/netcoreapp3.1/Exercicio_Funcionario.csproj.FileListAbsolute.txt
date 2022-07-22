@@ -1,0 +1,14 @@
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\bin\Debug\netcoreapp3.1\Exercicio_Funcionario.exe
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\bin\Debug\netcoreapp3.1\Exercicio_Funcionario.deps.json
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\bin\Debug\netcoreapp3.1\Exercicio_Funcionario.runtimeconfig.json
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\bin\Debug\netcoreapp3.1\Exercicio_Funcionario.runtimeconfig.dev.json
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\bin\Debug\netcoreapp3.1\Exercicio_Funcionario.dll
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\bin\Debug\netcoreapp3.1\Exercicio_Funcionario.pdb
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\obj\Debug\netcoreapp3.1\Exercicio_Funcionario.csproj.AssemblyReference.cache
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\obj\Debug\netcoreapp3.1\Exercicio_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\obj\Debug\netcoreapp3.1\Exercicio_Funcionario.AssemblyInfoInputs.cache
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\obj\Debug\netcoreapp3.1\Exercicio_Funcionario.AssemblyInfo.cs
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\obj\Debug\netcoreapp3.1\Exercicio_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\obj\Debug\netcoreapp3.1\Exercicio_Funcionario.dll
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\obj\Debug\netcoreapp3.1\Exercicio_Funcionario.pdb
+C:\Users\itzra\Documents\VS2019\Exercicio_Funcionario\Exercicio_Funcionario\obj\Debug\netcoreapp3.1\Exercicio_Funcionario.genruntimeconfig.cache
