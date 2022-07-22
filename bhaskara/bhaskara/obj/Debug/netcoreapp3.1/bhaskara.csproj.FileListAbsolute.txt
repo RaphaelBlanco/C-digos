@@ -1,0 +1,28 @@
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.exe
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.deps.json
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.runtimeconfig.json
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.runtimeconfig.dev.json
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.dll
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.pdb
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.csproj.AssemblyReference.cache
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.AssemblyInfoInputs.cache
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.AssemblyInfo.cs
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.dll
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.pdb
+C:\Users\itzra\Documents\VS2019\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.genruntimeconfig.cache
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.exe
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.deps.json
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.runtimeconfig.json
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.runtimeconfig.dev.json
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.dll
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\bin\Debug\netcoreapp3.1\bhaskara.pdb
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.csproj.AssemblyReference.cache
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.AssemblyInfoInputs.cache
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.AssemblyInfo.cs
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.dll
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.pdb
+C:\Users\itzra\Documents\Projetos C#\bhaskara\bhaskara\obj\Debug\netcoreapp3.1\bhaskara.genruntimeconfig.cache
